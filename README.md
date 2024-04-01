@@ -1,14 +1,14 @@
 <div align="center">
     <p>
-        <a href="https://nodei.co/npm/utils-discord/"><img src="https://nodei.co/npm/utils-discord.png?downloads=true&stars=true" alt="npm installnfo" /></a>
+        <a href="https://nodei.co/npm/fp-discord-utility/"><img src="https://nodei.co/npm/fp-discord-utility.png?downloads=true&stars=true" alt="npm installnfo" /></a>
     </p>
   <p>
-    <a href="https://www.npmjs.com/package/utils-discord">
-<img src="https://img.shields.io/npm/dt/utils-discord?color=CC3534&logo=npm&style=for-the-badge" alt="Downloads">
+    <a href="https://www.npmjs.com/package/fp-discord-utility">
+<img src="https://img.shields.io/npm/dt/fp-discord-utility?color=CC3534&logo=npm&style=for-the-badge" alt="Downloads">
 </a>
 
-<a href="https://www.npmjs.com/package/utils-discord">
-<img src="https://img.shields.io/npm/v/utils-discord?color=red&label=Version&logo=npm&style=for-the-badge" alt="Npm version">
+<a href="https://www.npmjs.com/package/fp-discord-utility">
+<img src="https://img.shields.io/npm/v/fp-discord-utility?color=red&label=Version&logo=npm&style=for-the-badge" alt="Npm version">
 </a>
 
 <br>
@@ -31,7 +31,7 @@ A package containing some basic and common yet important and useful utility func
 
 ### Introduction
 
-`utils-discord` is a module especially made for discord.js bot development to make the development easy by providing important utility functions premade. utils-discord is easy to use and makes your code become shorter and easier to make bots.
+`fp-discord-utility` is a module especially made for discord.js bot development to make the development easy by providing important utility functions premade. fp-discord-utility is easy to use and makes your code become shorter and easier to make bots.
 
 ### Updates (Last few updates)
 - Fix `author` parameter in `generateEmbed()` and `createEmbedPages()`
@@ -55,13 +55,13 @@ A package containing some basic and common yet important and useful utility func
 
 ### Installation
 
-```npm install utils-discord --save```
+```npm install fp-discord-utility --save```
 
 ### Usage
 
-Import the `utils-discord` package :
+Import the `fp-discord-utility` package :
 ```js
-const DiscordUtility = require("utils-discord");
+const DiscordUtility = require("fp-discord-utility");
 ```
 
 ### Functions List and Documentation
