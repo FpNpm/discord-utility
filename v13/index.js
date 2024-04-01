@@ -811,10 +811,7 @@ module.exports = class DiscordUtility {
      */
 
     static async mongoConnect(url) {
-        return await mongoose.connect(url, {
-            useNewUrlParser: true,
-            useUnifiedTopology: true
-        });
+        return await mongoose.connect(url);
     }
 
     /**
