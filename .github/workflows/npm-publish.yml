@@ -17,4 +17,4 @@ jobs:
       - run: yarn
       - run: yarn npm publish // for Yarn version 1, use `yarn publish` instead
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.npm_token }}
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_SECRET }}
