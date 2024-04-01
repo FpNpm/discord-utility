@@ -1,5 +1,5 @@
 {
-  "name": "utils-discord",
+  "name": "fp-discord-utility",
   "description": "A package containing some basic and common yet important and useful utility functions such as Shuffle Array, Remove Duplicates, Verification, Mongoose Funtions, Create Embed Pages etc. [Supports discord.js v12 and v13]",
   "version": "3.0.1",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ronak0020/discord-utility.git"
+    "url": "git+https://github.com/donotdx/discord-utility.git"
   },
   "keywords": [
     "discord",
@@ -26,12 +26,12 @@
     "bot",
     "functions"
   ],
-  "author": "Ronak0020",
+  "author": "Ronak0020, fptbb",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ronak0020/discord-utility/issues"
+    "url": "https://github.com/donotfx/discord-utility/issues"
   },
-  "homepage": "https://github.com/Ronak0020/discord-utility#readme",
+  "homepage": "https://github.com/donotfx/discord-utility#readme",
   "dependencies": {
     "figlet": "^1.5.0",
     "moment": "^2.29.1",
